@@ -19,36 +19,36 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '♛ الامبراطور اياتو ♛'
-global.botname = '♛ غوجو بوت ♛'
-global.footer = ' غوجو بوت ♛'
+global.owner = ['201553520195']
+global.premium = ['201553520195']
+global.ownernomer = '201553520195'
+global.ownername = '♛ الامبراطور ايـتـشـيـغـو ♛'
+global.botname = '♛ ايـزن بوت ♛'
+global.footer = '♛ ايـزن بوت ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.sc = 'https://www.instagram.com/k_ic9n/'
+global.myweb = 'https://www.youtube.com/channel/UCiYEeudxm1l6FatfOsA3O4w'
+global.packname = '𓆩 𝐀𝐈𝐙𝐄𝐍 ✫ 𝐈𝐂𝐇𝐈𝐆𝐎 𓆪'
+global.author = 'ايــزن عـمـك'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓',
     admin: '*「 هـذا الامـر فـقـط لـ المـشـرفـيـن 」◣*',
-    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل  الامـر 」◣*',
+    botAdmin: '*「 اعـطـنـي إشـراف لـتـفـعـيـل الامـر 」◣*',
     owner: '*「 هـذا الامـر فـقـط لـ الـمـالـك 」◣*',
     group: '*「 هـذا الامـر فـي الـمـجـمـوعـات فـقـط 」◣*',
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
     wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 2 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 100000,
     monayawal: 1000
 }
    global.rpg = {
